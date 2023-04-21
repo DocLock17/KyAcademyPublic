@@ -8,9 +8,8 @@ Here is the plan:
 2. Get Kylie Access to Repo
 3. Plan the project archetecture
 
-  A. Implement WIFI Controller System
-    i.  Test relay hat sketch
-    
+  A. Implement WIFI Controller System:
+    i. Test relay hat sketch
     ii. Build relay API
     
   B. Implement Basic Web Control Engine
